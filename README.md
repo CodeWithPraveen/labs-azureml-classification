@@ -1,6 +1,6 @@
 # Repository for the Classification ML lab
 
-Building a Classification Model with Azure Automated ML
+Building a No-Code Classification Model with Azure Automated ML
 
 ## Overview
 Learn to create a machine-learning model that can accurately predict the change for rain for the next day based on historical weather data using the classification technique. 
